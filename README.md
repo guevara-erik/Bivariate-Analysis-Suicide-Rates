@@ -1,7 +1,8 @@
 # Wolrldwide Suicide Rates - Bivariate Analysis
 
-Problem to solve: find the patterns for increased suicide rates (1985 to 2016) among different cohorts globally, across the socioeconomic spectrum, using exploratory data analysis.
+**Problem to solve:** find the patterns for increased suicide rates (1985 to 2016) among different cohorts globally, across the socioeconomic spectrum, using exploratory data analysis.
 Using bivariate analysis, I try to determine if there is any relationship between two variables.
+
 Data Information:
 
 - country: Country
